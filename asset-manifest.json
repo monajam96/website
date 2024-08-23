@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.8f465804.css",
+    "main.js": "/website/static/js/main.fe7c557b.js",
+    "static/js/453.fe91ec65.chunk.js": "/website/static/js/453.fe91ec65.chunk.js",
+    "static/media/hero.png": "/website/static/media/hero.f53a7b56ef7cc4daa25d.png",
+    "static/media/about.png": "/website/static/media/about.a0f39e376de0cad3e781.png",
+    "static/media/program-1.png": "/website/static/media/program-1.6c4ff06bf378294cf1d4.png",
+    "static/media/program-2.png": "/website/static/media/program-2.e4f9fafea9198f8599cf.png",
+    "static/media/program-3.png": "/website/static/media/program-3.744ba53da8c1b52bb87a.png",
+    "static/media/gallery-4.png": "/website/static/media/gallery-4.b507e7bb437768d804fd.png",
+    "static/media/gallery-3.png": "/website/static/media/gallery-3.408a84b882d0f3d83242.png",
+    "static/media/gallery-1.png": "/website/static/media/gallery-1.69e2cd79e89945397ccc.png",
+    "static/media/gallery-2.png": "/website/static/media/gallery-2.78fb4252f76fd0a04446.png",
+    "static/media/user-2.png": "/website/static/media/user-2.28ccf7ee714afabe3023.png",
+    "static/media/user-3.png": "/website/static/media/user-3.615b375dce93e51aa1b8.png",
+    "static/media/user-4.png": "/website/static/media/user-4.7b08c014df0c87dd7d89.png",
+    "static/media/user-1.png": "/website/static/media/user-1.d480f78bbf8bf8bd8088.png",
+    "static/media/revicons.eot": "/website/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/website/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/website/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/website/index.html",
+    "main.8f465804.css.map": "/website/static/css/main.8f465804.css.map",
+    "main.fe7c557b.js.map": "/website/static/js/main.fe7c557b.js.map",
+    "453.fe91ec65.chunk.js.map": "/website/static/js/453.fe91ec65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f465804.css",
+    "static/js/main.fe7c557b.js"
+  ]
+}
